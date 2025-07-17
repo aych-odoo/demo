@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <menuitem 
+        name="Bus Demo" 
+        id="bus_demo.menu_root_bus_demo" 
+        action="action_bus_demo" 
+        web_icon="bus_demo,static/description/icon.png" 
+        groups="base.group_user" 
+        sequence="5" />
+</odoo>

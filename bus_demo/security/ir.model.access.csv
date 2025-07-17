@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+bus_demo.access_bus_counter,access_bus_counter,bus_demo.model_bus_demo_counter,base.group_user,1,1,1,1
+bus_demo.access_bus_topic,access_bus_topic,bus_demo.model_bus_demo_topic,base.group_user,1,1,1,1

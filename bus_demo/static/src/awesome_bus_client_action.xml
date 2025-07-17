@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <t t-name="bus_demo.AwesomeBusClientAction">
+        <div class="container-fluid p-3 ">
+            <div class="d-flex flex-column flex-lg-row gap-3">
+                <div>
+                    1. Global Counter
+                    <GlobalCounter />
+                </div>
+                <div class="flex-grow-1">
+                    2. Topics
+                    <Topics />
+                </div>
+            </div>
+            <div class="mt-5">
+                <ResetNotifications />
+            </div>
+        </div>
+    </t>
+</templates>
